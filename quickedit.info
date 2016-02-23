@@ -7,7 +7,7 @@ dependencies[] = contextual
 dependencies[] = entity
 dependencies[] = field (>=7.22)
 dependencies[] = filter
-dependencies[] = libraries (>=2.x)
+dependencies[] = libraries
 dependencies[] = ctools
 
 test_dependencies[] = ckeditor
